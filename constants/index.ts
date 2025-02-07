@@ -29,7 +29,7 @@ export const FEATURES = [
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from TatyOko. That way, there's no more discussion",
+      "Schedule an adventure with friends. On holidays, there are many interestings offers from TatyOko. That way, there's no more discussion",
   },
   {
     title: 'Technology using augment reality',
